@@ -1,5 +1,5 @@
 # blogapp
-This is a blogging app done in Flask. Based on multiple tutorials from different sources. Aimed at learning Flask.
+A simple blogging app done in Flask.
 
 Users can:
 - create account to start writing posts
@@ -8,4 +8,9 @@ Users can:
 - update blog posts
 - delete blog posts
 
+What I Learnt:
+- Create, Read, Update and Delete (CRUD) using Flask SQLAlchemy database
+- Render templates using different routes based on request methods
+- Relate multiple databases based on different users
+- Authentication and authorization of users using Flask-login
 
