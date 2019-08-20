@@ -1,5 +1,7 @@
 # blogapp
 A simple blogging app done in Flask.
+![Screenshot of home page](https://github.com/Raylow00/blogapp/blob/master/Screenshot_1.png)
+![Screenshot of post form](https://github.com/Raylow00/blogapp/blob/master/Screenshot_2.png)
 
 Users can:
 - create account to start writing posts
